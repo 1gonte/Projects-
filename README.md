@@ -14,8 +14,13 @@
   This project consists of two parts. I was able to work in the console with the logs and the cab database.
   
 -GRADUATE WORK 
+
   My graduate work cosists of 4 parts. I was able to test parts of the Yandex Scooter service, which gives users the opportunity to rent a scooter.
+  
 -Part1_testing theory: This is an assignment with test theory questions and my answers to them.
+
 -Part2_web-app: Studied and analyzed the requirements. Developed a mindmap of the order form functionality. Made a checklist for the functionality of the Order Status      screen. For the "Place an order" screen, a field validation tests were made. Tested all the functionality, not only on the resulting checklists, but also on the rest    of  the layouts and requirements.
+
 -Part3_mobile-app: Studied and analyzed the requirements for the mobile app. Designed test cases and tested some of the functionality.
+
 -Part4_API: Studied the backend requirements and API documentation. Developed a checklist and tested the API on requirements. 
